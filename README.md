@@ -12,3 +12,29 @@ Biology, Physics and Math, etc... they all can be the inspiration of the frontie
 ANN is a shine of 2024 Nobel Prize for Physics...
 
 Keep Rolling!
+
+
+# Algorithms List:
+EM
+## Unsupervised Learning:
+  KNN
+
+## Supervised Learning:
+  Linear Regression (Gradient Descent, Random Gradient Descent)
+  Logistic Regression
+  Naive Bayes
+  Decision Tree
+  Ensemble
+## Deep Learning  
+  CNN
+  RNN
+  LSTM
+  GAN
+## Reinforcement
+## Semi-supervised Learning
+-----------------------------------------------------
+# Statistical Learning:
+  Time Series Analysis:
+    LSTM
+    ARIMA
+  
